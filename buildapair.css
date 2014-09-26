@@ -3,3 +3,42 @@
   width:auto;
   padding:10px;
 }
+
+body {
+  background:url('./images/IMG_2366.JPG') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/*#sec1 {
+  background-color: #e8e8e8;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+}*/
+
+.col-md-9 {
+  /*background-color: #e8e8e8;*/
+  background-color: white;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+  opacity:.85;
+}
+
+.col-md-3 {
+
+}
+
+.image-container {
+  .friends-container {
+    display: flex;
+    align-items: baseline;
+    /*overflow-x: scroll;*/
+    /*position: relative;*/
+    overflow-x: scroll;
+ /*   width:1000px;
+    height:400px;*/
+}
+
+
