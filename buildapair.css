@@ -48,5 +48,15 @@ body {
   display:inline;
  }*/
 
+ /*#sec1:hover, #sec2:hover, #sec3:hover, #sec4:hover {
+    opacity: .1;
+ }*/
+
+ .col-md-9:hover {
+  opacity:1;
+ }
+
+
+
 
 
