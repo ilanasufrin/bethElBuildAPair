@@ -30,15 +30,23 @@ body {
 
 }
 
-.image-container {
-  .friends-container {
+/*.image-container {
     display: flex;
     align-items: baseline;
-    /*overflow-x: scroll;*/
-    /*position: relative;*/
     overflow-x: scroll;
- /*   width:1000px;
-    height:400px;*/
-}
+ 
+ }*/
+
+ .photos {
+   /* display: flex;
+    align-items: baseline;
+    overflow-x: scroll;*/
+    display:inline;
+ }
+
+ /*.img-responsive {
+  display:inline;
+ }*/
+
 
 
